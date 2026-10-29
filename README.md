@@ -14,3 +14,6 @@ GitHub Pages: `main` branch, `/ (root)`.
 Repo > Settings > Pages > canlı adresin yanındaki menü > Unpublish site ile web yayını kaldırılabilir. Bu işlem repo dosyalarını silmez. Kaynakları da kaldırmak için repo > Settings > General > Danger Zone > Delete this repository kullanılır.
 
 Bu sunumdaki kampanya kurguları öneridir; ürün fiyatları ve koşullar yayın öncesinde marka tarafından onaylanmalıdır. Görseller ve videolar Lara Çarşı sunum malzemeleridir; public erişim yeniden kullanım lisansı vermez.
+
+## Beyaz yatay A4 çıktı
+Sayfanın üstündeki **A4 çıktı** düğmesi 19 sayfalık beyaz önizlemeyi açar. **PDF indir** hazır yatay A4 dosyasını indirir. **Yazdır** tarayıcının yazdırma penceresini açar. A4 / yatay / %100 ölçek ve üstbilgi-altbilgi kapalı ayarı önerilir. Tasarımın kendi sayfa numaraları vardır. Videolar kapak görselleriyle yer alır.
